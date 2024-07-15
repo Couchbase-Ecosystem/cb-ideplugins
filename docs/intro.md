@@ -7,20 +7,23 @@ title: Overview
 description:
   Couchbase IDE Plugins are plugins that allow you to interact with Couchbase Capella and Couchbase Server in your favorite IDE.  By allowing developers to interact with Couchbase from the tools they use to build software, this streamlines the development process.
 ---
+# IDE Plugins
 
-# Visual Studio Code Plugin
+TODO: Add content for general overview 
 
-TODO: Add content for Visual Studio Code Plugin requirements
+## Visual Studio Code 
 
-## Getting Started
+TODO: Add content for Introduction to Visual Studio Code Plugin 
+
+### Getting Started
 
 
 ### What you'll need
 
-# Jetbrains IDE Plugin
+## Jetbrains IDE Plugin
 
-TODO: Add content for Jetbrains IDE Plugins requirements
+TODO: Add content for Introduction to Jetbrains IDE Plugins 
 
-## Getting Started
+### Getting Started
 
 ### What you'll need
