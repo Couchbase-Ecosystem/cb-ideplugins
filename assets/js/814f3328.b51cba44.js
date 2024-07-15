@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcb_ideplugins=self.webpackChunkcb_ideplugins||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introduction to Couchbase IDE Plugins","permalink":"/blog/intro-blog-post","unlisted":false}]}')}}]);
